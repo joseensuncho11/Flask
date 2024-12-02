@@ -1,0 +1,10 @@
+Crear APP en FLASK siguiendo cada paso:
+
+PASO 1: Crear la Estructura de la APP (ver adjunto) proyecto: 4. app_crud_juego
+PASO 2: Abrir el archivo README (ver adjunto) y seguir los pasos 
+(1. Crear Entorno Virtual, 
+2. Activar, 
+3. Instalar dependencias, 
+4. Crear requirements.txt , Crear la base de datos en MYSQL, Crear los archivos HTML, CSS, JS , Crear los archivo PY) 
+PASO 3: Desarrolla la APP en el archivo y todos sus archivos
+PASO 4: Ejecutar la APP
